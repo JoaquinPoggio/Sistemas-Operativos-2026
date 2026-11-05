@@ -7,7 +7,7 @@ Repositorio del grupo con los trabajos prácticos de la materia **Sistemas Opera
 
 ## Integrantes
 
-| Integrante | GitHub |
+| Integrante |
 |---|---|
 | Joaquin Poggio |
 | Valentina Schaab |
