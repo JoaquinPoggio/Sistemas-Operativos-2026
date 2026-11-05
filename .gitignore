@@ -1,0 +1,25 @@
+# Ejecutables y archivos de compilación
+*.exe
+*.o
+*.obj
+*.out
+*.pdb
+*.ilk
+*.exp
+
+# Carpetas de salida de Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+
+# Editor
+.vscode/
+
+# Archivos del sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Temporales
+*.tmp
